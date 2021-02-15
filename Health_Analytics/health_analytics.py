@@ -16,7 +16,6 @@ for dirname, _, filenames in os.walk('HealthAnalytics2'):
         print(os.path.join(dirname, filename))
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
-# %%
 
 train_df = pd.read_csv('Data/train.csv')
 test_df = pd.read_csv('Data/test.csv')
