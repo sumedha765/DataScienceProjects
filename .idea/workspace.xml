@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b36325-3b11-407e-a966-0ef2d42b0f73" name="Default Changelist" comment="Project files restructured into folders.">
-      <change beforePath="$PROJECT_DIR$/.idea/DataScienceProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataScienceProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/final_predictions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/final_predictions.csv" afterDir="false" />
+    <list default="true" id="a1b36325-3b11-407e-a966-0ef2d42b0f73" name="Default Changelist" comment="Projects updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/.ipynb_checkpoints/predict_coupon_redemption-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/.ipynb_checkpoints/predict_coupon_redemption-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/predict_coupon_redemption.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/predict_coupon_redemption.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +213,8 @@
       <workItem from="1621264093125" duration="3624000" />
       <workItem from="1621506522258" duration="810000" />
       <workItem from="1621760608322" duration="312000" />
-      <workItem from="1621761135163" duration="933000" />
+      <workItem from="1621761135163" duration="1692000" />
+      <workItem from="1621928483172" duration="2196000" />
     </task>
     <task id="LOCAL-00001" summary="Project files restructured into folders.">
       <created>1613803896791</created>
@@ -223,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613803896791</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Projects updated">
+      <created>1621765555258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621765555258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +251,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project files restructured into folders." />
-    <option name="LAST_COMMIT_MESSAGE" value="Project files restructured into folders." />
+    <MESSAGE value="Projects updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projects updated" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataScienceProjects$976_845638_cf_jj_Q57EqK8.coverage" NAME="976_845638_cf_jj_Q57EqK8 Coverage Results" MODIFIED="1614519018361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
