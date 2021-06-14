@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b36325-3b11-407e-a966-0ef2d42b0f73" name="Default Changelist" comment="Projects updated.">
+    <list default="true" id="a1b36325-3b11-407e-a966-0ef2d42b0f73" name="Default Changelist" comment="Data Analysis performed on data.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health_Analytics/Code/.ipynb_checkpoints/health_analytics-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Health_Analytics/Code/.ipynb_checkpoints/health_analytics-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Health_Analytics/Code/health_analytics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Health_Analytics/Code/health_analytics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/.ipynb_checkpoints/predict_coupon_redemption-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/.ipynb_checkpoints/predict_coupon_redemption-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/final_predictions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/final_predictions.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/predict_coupon_redemption.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Predicting_Coupon_Redemption/Code/predict_coupon_redemption.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,7 +371,7 @@
       <workItem from="1622879338758" duration="826000" />
       <workItem from="1623245958248" duration="542000" />
       <workItem from="1623476424711" duration="2297000" />
-      <workItem from="1623562839158" duration="1624000" />
+      <workItem from="1623562839158" duration="4052000" />
     </task>
     <task id="LOCAL-00001" summary="Project files restructured into folders.">
       <created>1613803896791</created>
@@ -403,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623581782067</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Data Analysis performed on data.">
+      <created>1623594164755</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623594164755</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +432,8 @@
     <MESSAGE value="Projects updated" />
     <MESSAGE value="Project updated with few changes" />
     <MESSAGE value="Projects updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Projects updated." />
+    <MESSAGE value="Data Analysis performed on data." />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Analysis performed on data." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataScienceProjects$976_845638_cf_jj_Q57EqK8.coverage" NAME="976_845638_cf_jj_Q57EqK8 Coverage Results" MODIFIED="1614519018361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
