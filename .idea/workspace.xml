@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b36325-3b11-407e-a966-0ef2d42b0f73" name="Default Changelist" comment="Clustering updated with new parameters and exploratory data analysis.">
+    <list default="true" id="a1b36325-3b11-407e-a966-0ef2d42b0f73" name="Default Changelist" comment="Data insights captured.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer Segmentation/Code/.ipynb_checkpoints/customer_segmentation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Customer Segmentation/Code/.ipynb_checkpoints/customer_segmentation-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Customer Segmentation/Code/customer_segmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Customer Segmentation/Code/customer_segmentation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Health_Analytics/Code/.ipynb_checkpoints/health_analytics-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Health_Analytics/Code/.ipynb_checkpoints/health_analytics-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Health_Analytics/Code/health_analytics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Health_Analytics/Code/health_analytics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnX_Sales_Forecasting/Code/.ipynb_checkpoints/learnx_sales_forecasting-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LearnX_Sales_Forecasting/Code/.ipynb_checkpoints/learnx_sales_forecasting-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnX_Sales_Forecasting/Code/learnx_sales_forecasting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LearnX_Sales_Forecasting/Code/learnx_sales_forecasting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnX_Sales_Forecasting/Code/sample_submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LearnX_Sales_Forecasting/Code/sample_submission.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment Analysis for Steam Reviews/Code/.ipynb_checkpoints/steam_reviews-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment Analysis for Steam Reviews/Code/.ipynb_checkpoints/steam_reviews-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment Analysis for Steam Reviews/Code/steam_reviews.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment Analysis for Steam Reviews/Code/steam_reviews.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment Analysis for Steam Reviews/Code/submission_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment Analysis for Steam Reviews/Code/submission_results.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,7 +379,9 @@
       <workItem from="1623245958248" duration="542000" />
       <workItem from="1623476424711" duration="2297000" />
       <workItem from="1623562839158" duration="4159000" />
-      <workItem from="1623736401513" duration="2307000" />
+      <workItem from="1623736401513" duration="4793000" />
+      <workItem from="1623843218364" duration="1437000" />
+      <workItem from="1623999811360" duration="6946000" />
     </task>
     <task id="LOCAL-00001" summary="Project files restructured into folders.">
       <created>1613803896791</created>
@@ -424,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623743022767</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Data insights captured.">
+      <created>1623748819937</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623748819937</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +466,8 @@
     <MESSAGE value="Data Analysis performed on data." />
     <MESSAGE value="Projects updated with data analysis." />
     <MESSAGE value="Clustering updated with new parameters and exploratory data analysis." />
-    <option name="LAST_COMMIT_MESSAGE" value="Clustering updated with new parameters and exploratory data analysis." />
+    <MESSAGE value="Data insights captured." />
+    <option name="LAST_COMMIT_MESSAGE" value="Data insights captured." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataScienceProjects$976_845638_cf_jj_Q57EqK8.coverage" NAME="976_845638_cf_jj_Q57EqK8 Coverage Results" MODIFIED="1614519018361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
